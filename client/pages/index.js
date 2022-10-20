@@ -9,5 +9,5 @@ export default function Home() {
     };
   }, []);
 
-  return <div>Hello world</div>;
+  return <div>Hellow world</div>;
 }
